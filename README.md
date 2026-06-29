@@ -154,6 +154,7 @@ Developer essentials.
 | **[Warp](https://warp.dev)** | AI-native terminal | `brew install --cask warp` | ⭐⭐⭐ | ❌ | ❌ |
 | **[figma-use](https://github.com/dannote/figma-use)** | Full Figma read/write CLI (100+ commands) | `npm i -g figma-use` | ⭐⭐⭐⭐ | ❌ | ❌ |
 | **[curl](https://curl.se)** | HTTP/API foundation | `brew install curl` | ⭐⭐ | ❌ | ❌ |
+| **[RoleCraft](https://github.com/sametcelikbicak/rolecraft)** | Install AI agent skills as roles & behaviors from any source. Works with 30+ coding agents (opencode, claude-code, cursor, etc.) | `npm i -g rolecraft` | ⭐⭐⭐⭐ | ❌ | ✅ |
 
 **[`^ back to top ^`](#table-of-contents)**
 
